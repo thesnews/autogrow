@@ -3,15 +3,15 @@ AutoGrow
 
 Absurdly simple box autogrow for jQuery. Probably tons of room for improvement, but it gets the job done.
 
-h2. Usage
+## Usage
 
     $('selector').autoGrow({options});
 
-h2. Options
+## Options
 
  * autoResize - BOOLEAN (default: TRUE) - auto resize the box when the window is resized
 
-h2. About
+## About
 
 Copyright State News, Inc.
 
