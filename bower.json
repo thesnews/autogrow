@@ -1,0 +1,17 @@
+{
+  "name": "autogrow",
+  "version": "1.0.0",
+  "homepage": "https://github.com/thesnews/autogrow",
+  "authors": [
+    "Mike Joseph <mike.joseph@statenews.com>"
+  ],
+  "description": "Simple jQuery auto grow plugin",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
